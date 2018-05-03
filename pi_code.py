@@ -2,7 +2,7 @@ import time
 import RPi.GPIO as GPIO
 from twython import TwythonStreamer
 
-# Search terms
+# Search terms - Use a unique hashtag here eg. '#ISSoverheadMyStreet'
 TERMS = '#ISSoverhead'
 
 
